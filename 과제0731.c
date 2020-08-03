@@ -9,6 +9,7 @@ int INPUT_ID() {
 	printf("ID를 입력하시오: ");
 	scanf(" %s", input_id);
 }
+//패스워드 입력
 int INPUT_PW() {
 
 	int input_pw;
