@@ -6,13 +6,13 @@
 int INPUT_ID() {
 
 	char* input_id[20];
-	printf("ID를 입력하시오:");
+	printf("ID를 입력하시오: ");
 	scanf(" %s", input_id);
 }
 int INPUT_PW() {
 
 	int input_pw;
-	printf("PW를 입력하시오:");
+	printf("PW를 입력하시오: ");
 	scanf("%d", &input_pw);
 }
 
